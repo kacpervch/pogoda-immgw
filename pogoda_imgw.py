@@ -21,5 +21,5 @@ def pobierz_dane():
 
 for _ in range(24):
     pobierz_dane()
-    print("✅ Dane pobrane i zapisane. Czekam godzinę...")
+    print("✅ Dane pobane i zapisane. Czekam godzinę...")
     time.sleep(1)  
